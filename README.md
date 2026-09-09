@@ -64,18 +64,6 @@ Customer-facing commerce journeys used across a marketplace serving **300K+ acti
 
 > Production source code is private due to client and company confidentiality. The outcomes and architecture above describe my direct engineering contributions.
 
-### [Pixels Galaxy](https://github.com/noor05869/Pixels-Galaxy) · Public project
-
-A production-style commerce storefront covering both customer and operational workflows.
-
-- Cart and cash-on-delivery checkout with server-authoritative pricing.
-- Protected administration, order management and transactional email notifications.
-- SEO foundations and automated Vitest coverage.
-
-**Stack:** Next.js · React · TypeScript · Supabase · Zod · Resend · Vitest
-
-[View repository →](https://github.com/noor05869/Pixels-Galaxy) · [Visit live project →](https://pixelsgalaxy.com)
-
 ## How I approach engineering
 
 - **Product first:** connect technical decisions to a clear user or business outcome.
